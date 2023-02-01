@@ -1,3 +1,3 @@
-# heh~
+# New Repo
 
-meow!
+this repository was made to showcase pull requests
