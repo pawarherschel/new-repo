@@ -1,1 +1,3 @@
-time is some content to mess with
+this file now has completely different contents
+
+there should be a merge conflict now?
